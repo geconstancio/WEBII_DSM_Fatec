@@ -6,7 +6,7 @@ Data: 02/06/2026
 """
 __author__ = "Gleice Constâncio Rodrigues"
 __email__ = "gleice.rodrigues@aluno.cps.sp.gov.br"
-__turma__ = "DSM - 3º Semestre / Noturno"
+__turma__ = "DSM - 2º Semestre / Noturno"
 __version__ = "1.0.0"
 
 from flask import Blueprint, render_template
