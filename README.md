@@ -6,7 +6,7 @@ O foco da lista foi o desenvolvimento de APIs e aplicações back-end com Python
 
 ---
 
-## 📚 Conteúdo abordado
+##  Conteúdo abordado
 
 - Criação de rotas com **Flask**
 - Métodos HTTP: `GET` e `POST`
@@ -17,14 +17,14 @@ O foco da lista foi o desenvolvimento de APIs e aplicações back-end com Python
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - [Python 3.x](https://www.python.org/)
 - [Flask](https://flask.palletsprojects.com/)
 
 ---
 
-## 🚀 Como executar
+##  Como executar
 
 ### 1. Clone o repositório
 
