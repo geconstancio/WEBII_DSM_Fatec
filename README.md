@@ -1,6 +1,6 @@
-# 🌐 Web II — DSM · Fatec
+# 🌐 Desenvolvimento Web II — DSM
 
-Lista de exercícios de Flask da disciplina **Desenvolvimento Web II**, do curso de **Desenvolvimento de Software Multiplataforma (DSM)**.
+Lista de exercícios de Flask da disciplina **Desenvolvimento Web II**.
 
 O foco da lista foi o desenvolvimento de APIs e aplicações back-end com Python e Flask, abordando conceitos fundamentais de HTTP, autenticação, manipulação de dados e boas práticas de desenvolvimento web.
 
